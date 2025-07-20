@@ -39,7 +39,7 @@ This site showcases my journey as a BCA undergraduate, my ongoing internships, p
 - Cyber Security – DUCAT (2024)
 - Power BI – DUCAT (2025)
 - **Live Industrial Training in AIML – Graduvation (2025)**  
-  _3-Month Training with Projects: Lung Cancer Detection & Movie Title Extraction_
+  _(3-Month Training with Projects: Lung Cancer Detection & Movie Title Extraction)_
 
 ---
 
