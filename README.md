@@ -3,7 +3,7 @@
 Welcome to my personal portfolio website! 👋  
 This site showcases my journey as a BCA undergraduate, my ongoing internships, projects, certifications, and the skills I’ve developed.
 
-🔗 **Live Site:** [lakshay-portfolio.vercel.app](https://lakshay-portfolio.vercel.app)
+🔗 **Live Site:** [lakshay-portfolio.vercel.app](https://lakshay-portfolio-roan.vercel.app/)
 
 ---
 
